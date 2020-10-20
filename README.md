@@ -1,7 +1,9 @@
 # jogoDaCobrinha
 Requirements:
-  Python 3.8.1 or greater\n
-  pygame\n
+  Python 3.8.1 or greater
   
-pygame setup:\n
-  pip install pygame\n
+  pygame
+  
+pygame setup:
+
+  pip install pygame
